@@ -1,0 +1,4 @@
+.bin
+.o
+imgui.ini
+submodule/glfw_build
